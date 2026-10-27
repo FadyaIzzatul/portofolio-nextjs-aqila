@@ -19,9 +19,9 @@ export default function AboutPage() {
 
 	<Image
 
-	src="/profile.png"
+	src="/download.jpg"
 
-	alt="Foto Profil Budi Sanjaya"
+	alt="Foto Profil Aqila Tiara Hafizta"
 
 	layout="fill"
 
@@ -39,8 +39,9 @@ export default function AboutPage() {
 
 	<p className="mb-4 text-lg">
 
-	Halo! Nama saya Haikal Seventino Tamba. Saya adalah seorang mahasiswa yang memiliki ketertarikan untuk belajar, mencoba hal-hal baru, dan mengembangkan berbagai kemampuan. Saya senang mengeksplorasi berbagai hal dan menjadikan setiap pengalaman sebagai kesempatan untuk terus berkembang. 
+	Halo! Nama saya Aqila Tiara Hafizta. Saya adalah seorang siswa yang senang belajar, mencoba hal baru, dan mengembangkan kemampuan diri. Saya tertarik untuk mengeksplorasi berbagai hal dan memperoleh pengalaman baru.
 
+Saya terus berusaha meningkatkan kemampuan melalui berbagai proyek dan pengalaman belajar. Bagi saya, setiap tantangan adalah kesempatan untuk berkembang dan menjadi lebih baik.
 
 	</p>
 

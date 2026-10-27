@@ -5,7 +5,7 @@ export default function Footer() {
  return (
   <footer className="bg-primary text-gray-300 p-4 mt-auto">
 	<div className="container mx-auto text-center">
-	<p>&copy; {currentYear} Haikal Seventino Tamba. Semoga bermanfaat!</p>
+	<p>&copy; {currentYear} Aqila Tiara Hafizta. Semoga bermanfaat!</p>
 	</div>
   </footer>
  );

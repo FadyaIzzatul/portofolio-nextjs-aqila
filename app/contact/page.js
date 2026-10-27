@@ -18,7 +18,7 @@ export default function ContactPage() {
 
 	</p>
 
-	<p className="font-semibold">LinkedIn: <a href="#" className="text-blue-500 hover:underline">Haikal Seventino Tamba</a></p>
+	<p className="font-semibold">LinkedIn: <a href="#" className="text-blue-500 hover:underline">Aqila Tiara Hafizta</a></p>
 	</div>
 
   </main>
